@@ -1,0 +1,59 @@
+D:\student_information2\student_information2\bin\Debug\student_information2.exe.config
+D:\student_information2\student_information2\bin\Debug\student_information2.exe
+D:\student_information2\student_information2\bin\Debug\student_information2.pdb
+D:\student_information2\student_information2\obj\Debug\student_information2.csprojResolveAssemblyReference.cache
+D:\student_information2\student_information2\obj\Debug\student_information2.Form1.resources
+D:\student_information2\student_information2\obj\Debug\student_information2.Properties.Resources.resources
+D:\student_information2\student_information2\obj\Debug\student_information2.csproj.GenerateResource.Cache
+D:\student_information2\student_information2\obj\Debug\student_information2.exe
+D:\student_information2\student_information2\obj\Debug\student_information2.pdb
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\bin\Debug\student_information2.exe.config
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\obj\Debug\student_information2.exe
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\obj\Debug\student_information2.pdb
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\obj\Debug\student_information2.csprojResolveAssemblyReference.cache
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\obj\Debug\student_information2.Form1.resources
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\obj\Debug\student_information2.Properties.Resources.resources
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\obj\Debug\student_information2.csproj.GenerateResource.Cache
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\bin\Debug\student_information2.mdf
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\bin\Debug\student_information2_log.ldf
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\bin\Debug\student_information2.exe
+C:\Users\LAB-419\Desktop\hacker\student_information2\student_information2\bin\Debug\student_information2.pdb
+C:\Users\Ashraful\Desktop\New folder\student_information2\bin\Debug\student_information2.exe.config
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.exe
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.pdb
+C:\Users\Ashraful\Desktop\New folder\student_information2\bin\Debug\student_information2.mdf
+C:\Users\Ashraful\Desktop\New folder\student_information2\bin\Debug\student_information2_log.ldf
+C:\Users\Ashraful\Desktop\New folder\student_information2\bin\Debug\student_information2.exe
+C:\Users\Ashraful\Desktop\New folder\student_information2\bin\Debug\student_information2.pdb
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.csprojResolveAssemblyReference.cache
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.Form1.resources
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.Properties.Resources.resources
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.csproj.GenerateResource.Cache
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.BUBTMDI.resources
+C:\Users\Ashraful\Desktop\New folder\student_information2\obj\Debug\student_information2.LogIn.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\bin\Debug\student_information2.exe.config
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.exe
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.pdb
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.csprojResolveAssemblyReference.cache
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.BUBTMDI.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.Form1.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.LogIn.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.Properties.Resources.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\obj\Debug\student_information2.csproj.GenerateResource.Cache
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\bin\Debug\student_information2.mdf
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\bin\Debug\student_information2_log.ldf
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\bin\Debug\student_information2.exe
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\New folder\student_information2\bin\Debug\student_information2.pdb
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\bin\Debug\student_information2.exe.config
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.exe
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.pdb
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\bin\Debug\student_information2.mdf
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\bin\Debug\student_information2_log.ldf
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\bin\Debug\student_information2.exe
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\bin\Debug\student_information2.pdb
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.csprojResolveAssemblyReference.cache
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.BUBTMDI.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.Form1.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.LogIn.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.Properties.Resources.resources
+E:\Theoritical file of University\2nd Year\6th semester\Software Development 2\C# proect on Student Information ;ID 13,37,41\student_information2\obj\Debug\student_information2.csproj.GenerateResource.Cache
